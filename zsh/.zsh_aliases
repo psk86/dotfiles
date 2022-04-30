@@ -10,3 +10,7 @@ alias d='dev'
 alias du='dev up'
 alias dd='dev down'
 alias ds='dev s'
+
+alias cweb="cd ${HOME}/src/github.com/Shopify/checkout-web"
+alias shop="cd ${HOME}/src/github.com/Shopify/shopify"
+alias web="cd ${HOME}/src/github.com/Shopify/web"
